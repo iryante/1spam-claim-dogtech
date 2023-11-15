@@ -3958,3 +3958,7 @@ curl: (22) The requested URL returned error: 408
                                  Dload  Upload   Total   Spent    Left  Speed
   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100    60  100    60    0     0     45      0  0:00:01  0:00:01 --:--:--    45
 {"code":"InvalidParameters","error":"not found","data":null}
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100    60  100    60    0     0    172      0 --:--:-- --:--:-- --:--:--   172
+{"code":"InvalidParameters","error":"not found","data":null}
